@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi-Rest-C-AspNet-Sql-Server", "WebApi-Rest-C-AspNet-Sql-Server\WebApi-Rest-C-AspNet-Sql-Server.csproj", "{C4A53580-774B-4B6F-ADB4-FB929D377330}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi-Rest-CSharp-AspNet-Sql-Server", "WebApi-Rest-C-AspNet-Sql-Server\WebApi-Rest-CSharp-AspNet-Sql-Server.csproj", "{C4A53580-774B-4B6F-ADB4-FB929D377330}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
